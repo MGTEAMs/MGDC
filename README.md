@@ -1,0 +1,4 @@
+MGDC
+====
+
+MGDC Software - Core 
